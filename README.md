@@ -45,7 +45,7 @@ JavaScript, ES6, Node.js, Apollo, Server, Express, React, Bootstrap
 
 * jesusmanteca@gmail.com
 * [Link to Repo](https://github.com/jesusmanteca)
-* [Link to Live Site](https://dashboard.heroku.com/apps/tranquil-ravine-07521/settings)
+* [Link to Live Site](https://tranquil-ravine-07521.herokuapp.com/)
 
 
 ![Home Page](img/bookSearchImg.png)
